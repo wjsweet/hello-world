@@ -1,9 +1,5 @@
 # hello-world
 my first reository
-# include <iostream>
-  using namespace std;
-  int main()
-  {
-    cout << "i am wangjing ! this is my first reository!" << endl;
-    return 0;
-  } 
+i am wangjing ! this is my first reository!
+
+i want to learn c++ better and i like it so much! 
